@@ -1,8 +1,4 @@
-<p align="center"><img src="https://github.com/mjdos/tesouro_direto/blob/main/public/assets/imagens/topo_home.png" width="800" alt="CodeCreators"></p>
-
-<p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<p align="center"><img src="https://github.com/mjdos/dados_brchain/logo-brchain.jpeg" width="300" alt="CRCHAIN"></p>
 
 <br>
 
