@@ -1,30 +1,29 @@
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/logo-brchain.jpeg" width="300" alt="CRCHAIN"></p>
+<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/logo-brchain.jpeg" width="300" alt="BRCHAIN"></p>
 
 <br>
 
 ## Protótipo BRCHAIN: Inovação Tecnológica no Gerenciamento de Dados em Nefrologia
-
+<br><br>
 ### Introdução
-Neste mundo dinâmico e em constante evolução dos investimentos e tecnologias financeiras, temos o prazer de apresentar um projeto pioneiro que redefine o paradigma do investimento em títulos públicos: a "Solução para Tokenização do Tesouro Nacional". Esta proposta inovadora visa integrar a segurança e a estabilidade dos títulos públicos com a eficiência e a transparência da tecnologia blockchain.
+A área de nefrologia, vital para o tratamento e acompanhamento de doenças renais, enfrenta desafios significativos em termos de gerenciamento de dados de pacientes. Com o advento de novas tecnologias, surge o BRCHAIN, um protótipo web que promete revolucionar a forma como esses dados são geridos, armazenados e protegidos.
 <br><br>
-Dirigido a investidores no território nacional com CPF, inclusive estrangeiros registrados, este projeto está no cerne do desafio de desenvolver tecnologias avançadas para a tokenização de títulos públicos. O foco principal é visar a massificação, adoção e utilização desses títulos por investidores tanto no Brasil quanto no exterior.
+### Desenvolvimento
+O BRCHAIN foi desenvolvido utilizando Laravel, um framework PHP robusto e moderno, conhecido por sua capacidade de criar aplicações web complexas de forma eficiente. Esta escolha tecnológica não apenas garante uma base sólida para o desenvolvimento do protótipo, mas também proporciona uma plataforma flexível e escalável.
 <br><br>
-Nosso projeto é estruturado em torno de quatro pilares fundamentais: um Contrato Inteligente para a Criação e Gerenciamento do Token, uma Ferramenta Marketplace inovadora, uma Ferramenta de Auditoria para Rastreamento do Token e um Painel Administrativo completo para gerenciamento do Token. Cada um desses componentes foi cuidadosamente desenvolvido para atender às necessidades dos investidores modernos e no gerenciamento do token pelo Tesouro Nacional, oferecendo facilidade de acesso, usabilidade intuitiva e segurança impecável.
+Paralelamente, a integração com a HyperLedger Fabric, uma plataforma de blockchain privada, é um dos aspectos mais inovadores do BRCHAIN. A HyperLedger Fabric é reconhecida por sua segurança aprimorada, desempenho e capacidades de modularidade, sendo ideal para aplicações empresariais que exigem privacidade e confidencialidade.
 <br><br>
-Com um diferencial marcante em tecnologia blockchain avançada e interfaces de usuário intuitivas, nosso projeto não apenas cumpre os requisitos do mercado atual, mas também estabelece novos padrões para o futuro dos investimentos em títulos públicos. É uma honra apresentar esta proposta, um testemunho do nosso compromisso com a inovação, segurança e excelência garantindo um salto significativo na forma como os títulos públicos são visualizados e negociados.
+### Gerenciamento Eficiente de Dados de Nefrologia
+O foco principal desse protótipo é melhorar o gerenciamento de dados na área de nefrologia. Com ele, os profissionais de saúde podem inserir, acessar e gerenciar informações dos pacientes de maneira mais eficiente e segura. Isso inclui dados clínicos, históricos de tratamentos, resultados de exames e outras informações relevantes ao cuidado renal.
 <br><br>
+### Segurança e Privacidade Através da Blockchain
+A utilização da blockchain privada proporciona um nível de segurança e privacidade incomparável. Cada transação de dados realizada no BRCHAIN é registrada na blockchain, criando um histórico imutável e auditável. Isso não apenas assegura a integridade dos dados, mas também protege contra acessos não autorizados e fraudes.
+<br><br>
+### Benefícios para a Área de Saúde
+A implementação do BRCHAIN tem potencial para trazer inúmeros benefícios para a saúde nefrológica. A agilidade no acesso às informações pode melhorar a tomada de decisões clínicas, enquanto a segurança dos dados aumenta a confiança dos pacientes quanto à proteção de suas informações pessoais e de saúde. Além disso, a plataforma pode facilitar a pesquisa clínica ao proporcionar acesso a um banco de dados rico e confiável.
+<br><br>
+## Telas do Protótipo BRCHAIN
+<br><br>
+### Login
+A tela de login do BRCHAIN é a porta de entrada para um sistema revolucionário de gerenciamento de dados na nefrologia. Projetada com uma interface clara e intuitiva, ela garante que os usuários — sejam profissionais de saúde ou administradores do sistema — possam acessar a plataforma com facilidade e segurança. Esta tela incorpora mecanismos de autenticação robustos, incluindo opções de verificação em duas etapas, para assegurar que apenas usuários autorizados tenham acesso às informações sensíveis. O design responsivo da tela de login garante uma experiência de usuário consistente em diferentes dispositivos, seja em computadores de mesa, laptops ou dispositivos móveis, refletindo o compromisso do BRCHAIN com a segurança dos dados e a usabilidade eficiente.
 
-> Participar deste hackathon foi uma jornada<br>
-> incrível de aprendizado e colaboração.<br>
-> Agradecemos imensamente pela oportunidade<br>
-> de crescer, inovar e compartilhar ideias<br>
-> com mentes tão brilhantes.<br>
-> Equipe "Code Creators"
-<br>
-
-## Desafio
-
-## Link do MVP
-https://codecreators.com.br/
-<br><br>
-
+<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela1.png" width="800" alt="BRCHAIN"></p>
