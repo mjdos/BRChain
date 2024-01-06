@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/logo-brchain.jpeg" width="300" alt="CRCHAIN"></p>
+<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/logo-brchain.jpeg" width="300" alt="CRCHAIN"></p>
 
 <br>
 
