@@ -26,31 +26,31 @@ A implementação do BRCHAIN tem potencial para trazer inúmeros benefícios par
 ### Login
 A tela de login do BRCHAIN é a porta de entrada para um sistema revolucionário de gerenciamento de dados na nefrologia. Projetada com uma interface clara e intuitiva, ela garante que os usuários — sejam profissionais de saúde ou administradores do sistema — possam acessar a plataforma com facilidade e segurança. Esta tela incorpora mecanismos de autenticação robustos, incluindo opções de verificação em duas etapas, para assegurar que apenas usuários autorizados tenham acesso às informações sensíveis. O design responsivo da tela de login garante uma experiência de usuário consistente em diferentes dispositivos, seja em computadores de mesa, laptops ou dispositivos móveis, refletindo o compromisso do BRCHAIN com a segurança dos dados e a usabilidade eficiente.
 
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela1.png" width="800" alt="BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/tela1.png" width="800" alt="BRCHAIN"></td></tr></table></div>
 
 ### Home
 Ao acessar a home, os usuários são recebidos por um dashboard dinâmico e informativo, projetado para oferecer uma visão geral abrangente e ao mesmo tempo detalhada do status dos pacientes e das operações clínicas.
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela2.png" width="800" alt="BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/tela2.png" width="800" alt="BRCHAIN"></td></tr></table></div>
 
 ### Tela de Autorização
 Para que o médico tenha acesso aos dados do prontuário do paciente é necessário que ele solicite autorização, uma vez solicitada, o paciente poderá usar o seu aplicativo BRCHAIN para autorizar o acesso.
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela3.png" width="800" alt="BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/tela3.png" width="800" alt="BRCHAIN"></td></tr></table></div>
 
 ### Tela dos Prontuários Médicos
 Nessa tela o médico poderá acessar a avolução do paciente.
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela4.png" width="800" alt="BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/tela4.png" width="800" alt="BRCHAIN"></td></tr></table></div>
 
 ### Tela do Prontuário
 Nessa tela o médico poderá acessar os dados do paciente.
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela5.png" width="800" alt="BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/tela5.png" width="800" alt="BRCHAIN"></td></tr></table></div>
 
 ### Tela Controle Dialítico
 Nessa tela o enfermeiro poderá gerenciar os dados dialíticos do paciente no momento da diálise.
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela6.png" width="800" alt="BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/tela6.png" width="800" alt="BRCHAIN"></td></tr></table></div>
 
 ### Tela Adicionar dado Dialítico
 Nessa tela o enfermeiro poderá adicionar dados dialíticos no prontuário do paciente no momento da diálise.
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela7.png" width="800" alt="BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/tela7.png" width="800" alt="BRCHAIN"></td></tr></table></div>
 
 ## Telas do Protótipo do Aplicativo BRCHAIN
 
