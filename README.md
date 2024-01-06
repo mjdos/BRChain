@@ -55,7 +55,7 @@ Nessa tela o enfermeiro poderá adicionar dados dialíticos no prontuário do pa
 ## Telas do Protótipo do Aplicativo BRCHAIN
 
 ### Login
-<p align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-login.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-login.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></div>
 
 ### Home do APP
 <p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/app-home.jpeg" width="300" alt="APP BRCHAIN"></p>
