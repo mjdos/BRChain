@@ -58,16 +58,16 @@ Nessa tela o enfermeiro poderá adicionar dados dialíticos no prontuário do pa
 <div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-login.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></div>
 
 ### Home do APP
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/app-home.jpeg" width="300" alt="APP BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-home.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></div>
 
 ### Dicas 
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/app-dicas.jpeg" width="300" alt="APP BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-dicas.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></div>
 
 ### Prontuário 
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/app-prontuario.jpeg" width="300" alt="APP BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-prontuario.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></div>
 
 ### Prontuário 
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/app-prontuario-b.jpeg" width="300" alt="APP BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-prontuario-b.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></div>
 
 ### Prontuário 
-<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/app-prontuario-c.jpeg" width="300" alt="APP BRCHAIN"></p>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/dados_brchain/blob/main/app-prontuario-c.jpeg" width="300" alt="APP BRCHAIN"></td></tr></table></div>
