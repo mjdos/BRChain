@@ -52,6 +52,7 @@ Nessa tela o enfermeiro poderá gerenciar os dados dialíticos do paciente no mo
 Nessa tela o enfermeiro poderá adicionar dados dialíticos no prontuário do paciente no momento da diálise.
 <p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/tela7.png" width="800" alt="BRCHAIN"></p>
 
-## Telas do Protótipo Aplicativo do BRCHAIN
+## Telas do Protótipo do Aplicativo BRCHAIN
 
 ### Login
+<p align="center"><img src="https://github.com/mjdos/dados_brchain/blob/main/app-login.jpeg" width="400" alt="APP BRCHAIN"></p>
