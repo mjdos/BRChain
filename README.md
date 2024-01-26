@@ -4,7 +4,7 @@
 
 ## Protótipo BRCHAIN: Inovação Tecnológica no Gerenciamento de Dados em Nefrologia
 
-<video src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://youtu.be/h8xtjsAawuo)"></video>
+https://youtu.be/h8xtjsAawuo
 
 ### Introdução
 A área de nefrologia, vital para o tratamento e acompanhamento de doenças renais, enfrenta desafios significativos em termos de gerenciamento de dados de pacientes. Com o advento de novas tecnologias, surge o BRCHAIN, um protótipo web que promete revolucionar a forma como esses dados são geridos, armazenados e protegidos.
