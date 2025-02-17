@@ -16,7 +16,7 @@ Paralelamente, a integração com a HyperLedger Fabric, uma plataforma de blockc
 O foco principal desse protótipo é melhorar o gerenciamento de dados na área de nefrologia. Com ele, os profissionais de saúde podem inserir, acessar e gerenciar informações dos pacientes de maneira mais eficiente e segura. Isso inclui dados clínicos, históricos de tratamentos, resultados de exames e outras informações relevantes ao cuidado renal.
 
 ### Segurança e Privacidade Através da Blockchain
-A utilização da blockchain privada proporciona um nível de segurança e privacidade incomparável. Cada transação de dados realizada no BRCHAIN é registrada na blockchain, criando um histórico imutável e auditável. Isso não apenas assegura a integridade dos dados, mas também protege contra acessos não autorizados e fraudes.
+A utilização da blockchain privada proporciona um nível de segurança e privacidade incomparável. Cada transação de dados realizada no BRCHAIN será registrada na blockchain, criando um histórico imutável e auditável. Isso não apenas assegura a integridade dos dados, mas também protege contra acessos não autorizados e fraudes.
 
 ### Benefícios para a Área de Saúde
 A implementação do BRCHAIN tem potencial para trazer inúmeros benefícios para a saúde nefrológica. A agilidade no acesso às informações pode melhorar a tomada de decisões clínicas, enquanto a segurança dos dados aumenta a confiança dos pacientes quanto à proteção de suas informações pessoais e de saúde. Além disso, a plataforma pode facilitar a pesquisa clínica ao proporcionar acesso a um banco de dados rico e confiável.
